@@ -35,7 +35,7 @@ class LogIn extends Connection {
 }
 
 /*class SignUp extends ConnectionHandlers {
-
+ apoyo para loggin avanzado
 }*/
 
 
